@@ -41,3 +41,5 @@
 36. Can't create a linked table without a machine or file data source set up. Why cant I type in the name of the server I want to connect to and then choose a database? It's literally just filling in fields in an ODBC connection string.
 
 n+1. This list has n entries, and n is far too large considreing every single entry is a real WTF moment.
+
+t
