@@ -38,5 +38,6 @@
 33. Linked table manager: if you try and change any table links and it fails on one it will fail any following links that you've just changed because they can't do the most basic error handling.
 34. Type mismatch error: go fuck yourself. No one thought it might be nice to include some info about where the error is? Or just anything at all that isnt just a 'fuck you'?
 35. No write permission on some external table? Let me just turn your database in to a 500mb blob of shit.
+36. Can't create a linked table without a machine or file data source set up. Why cant I type in the name of the server I want to connect to and then choose a database? It's literally just filling in fields in an ODBC connection string.
 
 n+1. This list has n entries, and n is far too large considreing every single entry is a real WTF moment.
