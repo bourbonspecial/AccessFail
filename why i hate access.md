@@ -40,5 +40,6 @@
 35. No write permission on some external table? Let me just turn your database in to a 500mb blob of shit.
 36. Can't create a linked table without a machine or file data source set up. Why cant I type in the name of the server I want to connect to and then choose a database? It's literally just filling in fields in an ODBC connection string.
 37. "Unknown Access database engine error"
+38. "You tried to lock the table xyz, but the tablel cannot be lcoked because it is currently in use Wait a moment, and try the operation again."
 
 n+1. This list has n entries, and n is far too large considreing every single entry is a real WTF moment.
